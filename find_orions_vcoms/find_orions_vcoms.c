@@ -105,7 +105,7 @@ int main(int argc, char **argv)
 
    // Start the process loop...
 
-   printf("\nConnect the %s orion, power on, wait for the beep and then hit: 'n'(next)  'r'(ready)  'q'(quit) + <CR>\n\n", aszNumbers[iUSB]);
+   printf("\nConnect the %s orion, power on, wait for the beep !!! ... and then hit: 'n'(next)  'r'(ready)  'q'(quit) + <CR>\n\n", aszNumbers[iUSB]);
 
    while (!bQuit) {
       MsSleep(100);
