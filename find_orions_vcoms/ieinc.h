@@ -14,6 +14,7 @@
 #include <errno.h>
 
 /* testbranch1 */
+/* testbranch2 (by git) */
 extern int GetDebugLevel();
 
 #define DEBUG     GetDebugLevel()
