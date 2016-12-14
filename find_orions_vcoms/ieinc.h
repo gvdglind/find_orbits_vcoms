@@ -15,6 +15,7 @@
 
 /* testbranch5a */
 /* testbranch5b */
+/* branchtest6 */
 
 extern int GetDebugLevel();
 
