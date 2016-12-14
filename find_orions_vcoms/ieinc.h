@@ -13,6 +13,7 @@
 #include <unistd.h>
 #include <errno.h>
 
+/* testbranch1 */
 extern int GetDebugLevel();
 
 #define DEBUG     GetDebugLevel()
