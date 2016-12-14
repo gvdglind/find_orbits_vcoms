@@ -15,6 +15,8 @@
 
 /* testbranch1 */
 /* testbranch2 (by git) */
+/* testbranch3 */
+
 extern int GetDebugLevel();
 
 #define DEBUG     GetDebugLevel()
