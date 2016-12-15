@@ -13,7 +13,7 @@
 #include <unistd.h>
 #include <errno.h>
 
-/* branchtest7 */
+/* branchtest nr 7 */
 
 extern int GetDebugLevel();
 
